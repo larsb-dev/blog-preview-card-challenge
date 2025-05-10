@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
@@ -43,12 +43,18 @@ Users should be able to:
 
 ### What I learned
 
-I don't know if this is normal but I tend to struggly with identifying elements that share common styles. I'm a bit obsessed about the DRY principle and want to write the most reusable CSS classes possible. During this project I've worked with a Figma file for the first time and I've created styles for the text and spacing according to the style guide. For example, I've set up `.text-preset-2` and `.text-preset-2-bold` classes. The common styles are in the first class and the second class only contains the styles to make the text bold. I find it awesome that Figma allows you to copy CSS custom properties and other code snippets directly into your CSS file.
+I don't know if this is normal, but I tend to struggle with identifying elements that share common styles. I'm a bit obsessed about the DRY principle and want to write the most reusable CSS classes possible. During this project I've worked with a Figma file for the first time and I've created styles for the text and spacing according to the style guide. For example, I've set up `.text-preset-2` and `.text-preset-2-bold` classes. The common styles are in the first class and the second class only contains the styles to make the text bold. I find it awesome that Figma allows you to copy CSS custom properties and other code snippets directly into your CSS file.
+
+### Pixel Perfect
+
+I tried my best to make this site look as close to the original design as possible. I inspected the elements in Figma which was a lot of fun.
+
+![](./images/pixel-perfect-card.png)
 
 ### Continued development
 
-I want to continue with project-based learning and I'm pretty sure that if I will use a CSS framework in the future, it will make this class-selection process a lot more straightforward.
+I want to continue with project-based learning and I hope that if I will use a CSS framework in the future, it will make the class-selection more straightforward.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/larsb-dev)
+- Frontend Mentor - [@larsb-dev](https://www.frontendmentor.io/profile/larsb-dev)
