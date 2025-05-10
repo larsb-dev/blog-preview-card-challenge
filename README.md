@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-VfkC-gesYZ)
 - [Live Site URL](https://larsb-dev.github.io/blog-preview-card-challenge/)
+- [Solution URL](https://www.frontendmentor.io/solutions/a-pixel-perfect-blog-preview-card--vIpvAKyNS)
 
 ## My process
 
