@@ -1,0 +1,80 @@
+:root {
+    --color-yellow: #f4d04e;
+    --color-white: #ffffff;
+    --color-gray-light: #6b6b6b;
+    --color-gray-dark: #121212;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Figtree', sans-serif;
+    background-color: var(--color-yellow);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.card {
+    background-color: var(--color-white);
+    max-width: 384px;
+    padding: 20px;
+    border: 1px solid var(--color-gray-dark );
+    border-radius: 8px;
+    box-shadow: 5px 5px 1px rgb(0, 0, 0);
+}
+
+.card-content {
+    margin: 20px 0;
+}
+
+.card-content > *:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+.card-header-image {
+    border-radius: 8px;
+}
+
+.text-preset-2 {
+    color: var(#6B6B6B);
+    font-size: var(--font-size-text-preset-2, 16px);
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.text-preset-3  {
+    color: var(#111);
+    font-size: var(14px);
+    line-height: 150%;
+}
+
+.text-preset-3-bold  {
+    font-weight: 800;
+}
+
+.card-tag {
+
+}
+
+.card-footer-image {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.card-footer {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-150, 12px);
+}
