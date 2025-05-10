@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
@@ -49,7 +49,7 @@ I don't know if this is normal, but I tend to struggle with identifying elements
 
 I tried my best to make this site look as close to the original design as possible. I inspected the elements in Figma which was a lot of fun.
 
-![](./images/pixel-perfect-card.png)
+![](./assets/images/pixel-perfect-card.png)
 
 ### Continued development
 
